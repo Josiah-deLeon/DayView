@@ -1,0 +1,21 @@
+DayView.v1
+
+Features: -To automatically send messages to groupchat 
+          -Converter module that changes pdf to csv
+          -Print out in a fancy way to send to chat  
+
+The data I would like to focus on is:
+    1.Date
+    2.Department
+    3.Name
+    4.Shift for the day
+    
+
+Steps: 1. To convert pdf to csv>
+                                -*Install java
+                                -*Test file conversion
+                                -Create a csv file
+                                -
+
+    Update: PDF format changed so new parsing required.
+    

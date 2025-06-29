@@ -18,4 +18,8 @@ Steps: 1. To convert pdf to csv>
                                 -
 
     Update: PDF format changed so new parsing required.
+    Implemented the pypdf2 module and wasn't getting all the information
+    from the pdf. This is because the module directly the text data from the
+    pdf which in this case is an image. Since it's a scanned image
+    ideally an OCR(optical character recoginition) solution would work better
     
